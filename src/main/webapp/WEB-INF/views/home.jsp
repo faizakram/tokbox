@@ -10,5 +10,8 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<p>apiKey:-  ${apiKey}</p>
+<p>sessionId:-  ${sessionId}</p>
+<p>token:-  ${token}</p>
 </body>
 </html>
